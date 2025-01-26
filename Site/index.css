@@ -164,6 +164,16 @@ body {
     right: 270px;
 }
 
+.crazy {
+    cursor: pointer;
+    right: 280px;
+}
+
+.poki {
+    cursor: pointer;
+    right: 290px;
+}
+
 .updates_btn:hover {
     color: grey;
 }
